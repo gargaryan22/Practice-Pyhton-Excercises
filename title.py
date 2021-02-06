@@ -1,0 +1,2 @@
+print("peter Aryan".split())
+
